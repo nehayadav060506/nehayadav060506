@@ -22,5 +22,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehayadav060506&show_icons=true&locale=en&layout=compact" alt="nehayadav060506" /></p>
 
 
+<table width="100%">
+<tr>
+<td width="60%">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&height=100&pause=1000&width=435&lines=Hey+!;I'm+Neha+yadav)](https://git.io/typing-svg)
+</td>
+<td width="40%">
+  <img src=" https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif">
+  </td>
+</tr>
+<table>
 
